@@ -1,0 +1,35 @@
+<employee>
+
+    <info ID ="1">
+        <name> Jhon Doe </name>
+        <address>  
+            <house> H#38 </house>
+            <road> R#3 </road>
+            <area> Banani, Dhaka</area>        
+        </address>
+        <department> Seles </department>
+        <salary> 20000 </salary>
+    </info>
+
+    <info ID ="2">
+        <name> Mark Zukerbarg </name>
+        <address>  
+            <house> F#A/1 H#20 </house>
+            <road> R#18 </road>
+            <area> Mirpur, Dhaka</area>        
+        </address>
+        <department> Accounts </department>
+        <salary> 12000 </salary>
+    </info>
+    <info ID = "3">
+        <name> Ala Voski </name>
+        <address>  
+            <house> H#38 </house>
+            <road> R#3 </road>
+            <area> Motijheel, Dhaka</area>        
+        </address>
+        <department> Human Reasource </department>
+        <salary> 30000 </salary>
+    </info>
+
+</employee>
